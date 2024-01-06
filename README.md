@@ -1,5 +1,5 @@
 
-# Website for Ex Libris
+# Website for *Ex Libris*, a popular science blog
 
 Based on [al-folio](https://github.com/alshedivat/al-folio).
 
