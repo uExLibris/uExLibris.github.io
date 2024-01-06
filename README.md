@@ -1,7 +1,11 @@
 
 # Website for *Ex Libris*, a popular science blog
 
-Based on [al-folio](https://github.com/alshedivat/al-folio).
+Powered by [Jekyll](https://jekyllrb.com/) with [al-folio](https://github.com/alshedivat/al-folio) theme.
+
+Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+
+
 
 To deploy locally: 
 
