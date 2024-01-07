@@ -1,5 +1,5 @@
 
-# Website for *Ex Libris*, a popular science blog
+# [Website](https://uexlibris.github.io/) for *Ex Libris*, a popular science blog
 
 Powered by [Jekyll](https://jekyllrb.com/) with [al-folio](https://github.com/alshedivat/al-folio) theme.
 
