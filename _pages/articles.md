@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /articles/
-title: articles
+title: Articles
 nav: true
 nav_order: 1
 pagination:
